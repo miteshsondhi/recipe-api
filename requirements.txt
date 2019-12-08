@@ -1,5 +1,6 @@
 Django~=2.2.8
 djangorestframework~=3.10.3
 psycopg2~=2.8.4
+drf-yasg~=1.17.0
 
 flake8~=3.7.9
